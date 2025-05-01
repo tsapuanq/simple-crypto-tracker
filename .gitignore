@@ -1,0 +1,22 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+.env
+
+# --- Node / React ---
+node_modules/
+dist/
+.vite/
+build/
+*.log
+
+# --- VSCode ---
+.vscode/
+
+# --- OS system files ---
+.DS_Store
+Thumbs.db
